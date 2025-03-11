@@ -1,11 +1,4 @@
 # DyuOhin1 [Work In Process]
 
-#### 因應「大葉之行」與「大葉行動家」兩款學生可使用的手機應用程式下架，本專案因此誕生。  
-To address the discontinuation of "大葉之行" and "大葉行動家," the only two mobile apps available for students at DaYeh University, this project was created.
-
-#### 我們的目標是打造一款擁有更友善、更簡潔操作介面的應用程式，並致力於整合大葉大學學生日常所需的大部分服務。  
-Our goal is to develop an application with a more user-friendly and streamlined interface while integrating most of the daily services needed by DaYeh University students.
-
-#### 它的名字是 **DyuOhin1**。  
-It is called **DyuOhin1**.
-
+隨著時代變遷與技術發展，學校學生資訊系統經歷多次升級與改版，導致新舊系統分散於不同平台，造成使用不便。本專題旨在統一並重製學生資訊系統，透過系統整合與優化，提供一致性介面與便於使用者存取方式，提升查詢效率、使用體驗，並確保未來擴充性與維護的便利性，以更符合現代化需求。
+As technology advances, student information systems in schools have been upgraded multiple times, leading to old and new systems being spread across different platforms, making them hard to use. This project aims to unify and improve the student information system by integrating different systems into a single, easy-to-use platform. It will provide a consistent interface, improve search efficiency, enhance user experience, and ensure easier future upgrades and maintenance to meet modern needs.
